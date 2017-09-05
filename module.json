@@ -1,0 +1,8 @@
+{
+    "alias": "tukecx-auth",
+    "name": "Authentication",
+    "author": "Tukecx",
+    "description": "Authentication package.",
+    "namespace": "Tukecx\\Base\\Auth",
+    "autoload": "psr-4"
+}
